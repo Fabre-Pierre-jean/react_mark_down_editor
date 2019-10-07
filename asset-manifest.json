@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_mark_down_editor/static/css/main.34de6062.chunk.css",
+    "main.js": "/react_mark_down_editor/static/js/main.57d2f69a.chunk.js",
+    "main.js.map": "/react_mark_down_editor/static/js/main.57d2f69a.chunk.js.map",
+    "runtime-main.js": "/react_mark_down_editor/static/js/runtime-main.77082185.js",
+    "runtime-main.js.map": "/react_mark_down_editor/static/js/runtime-main.77082185.js.map",
+    "static/css/2.0624914a.chunk.css": "/react_mark_down_editor/static/css/2.0624914a.chunk.css",
+    "static/js/2.fa02c2b9.chunk.js": "/react_mark_down_editor/static/js/2.fa02c2b9.chunk.js",
+    "static/js/2.fa02c2b9.chunk.js.map": "/react_mark_down_editor/static/js/2.fa02c2b9.chunk.js.map",
+    "index.html": "/react_mark_down_editor/index.html",
+    "precache-manifest.043578d93d60698b1de73ee44bf35df9.js": "/react_mark_down_editor/precache-manifest.043578d93d60698b1de73ee44bf35df9.js",
+    "service-worker.js": "/react_mark_down_editor/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/react_mark_down_editor/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react_mark_down_editor/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77082185.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.fa02c2b9.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.57d2f69a.chunk.js"
+  ]
+}
